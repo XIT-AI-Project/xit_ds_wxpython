@@ -1,0 +1,17 @@
+1. 将文件夹拷贝至c:\abc
+2. 运行 pyinstaller -F xit_main.py
+
+程序报错
+
+在c:\abc\xitMatrix20200121 中打开xit_main.spec，第一行插入：
+
+
+import sys
+sys.setrecursionlimit(5000)
+
+3. 运行 pyinstaller -F xit_main.spec
+
+如何去掉dos窗口
+pyinstaller -F XX.py -w
+
+pyinstaller -F XX.py --noconsole
