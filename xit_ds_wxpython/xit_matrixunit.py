@@ -11,7 +11,7 @@ from xit_matrixunit_AlgorithmExplanation import xit_MatrixUnitExplain
 xitMatrix继承自Matrix,所以下面的方法与Sympy的介绍类似
 xitMatrix的家族关系：
 
-MatrixShaping（矩阵的形状运算：比如行、列的删除；矩阵的合并等方法都在这里定义，试一下改动）
+MatrixShaping（矩阵的形状运算：比如行、列的删除；矩阵的合并等方法都在这里定义）
 MatrixSpecial（一些特殊矩阵的形成方法在这里定义，例如单位阵，one阵等）
 MatrixProperties（矩阵的属性在这里定义，例如是否是单位阵，能够改变数值等）
 MatrixOperations(矩阵的一元基本运算，例如求矩阵的迹等)
