@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://F:/PycharmProjects/Lihang/.idea/Lihang.iml" filepath="F:/PycharmProjects/Lihang/.idea/Lihang.iml" />
+      <module fileurl="file://F:/PycharmProjects/example-code/.idea/example-code.iml" filepath="F:/PycharmProjects/example-code/.idea/example-code.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/example-code/.idea/example-code.iml" filepath="$USER_HOME$/PycharmProjects/example-code/.idea/example-code.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/lihang_book_algorithm/.idea/mnist_test.iml" filepath="$USER_HOME$/PycharmProjects/lihang_book_algorithm/.idea/mnist_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/xit_ds_wxpython.iml" filepath="$PROJECT_DIR$/.idea/xit_ds_wxpython.iml" />
+    </modules>
+  </component>
+</project>
