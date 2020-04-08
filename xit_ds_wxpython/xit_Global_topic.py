@@ -151,5 +151,6 @@ xitMatrixUnit(_mat="第64页例2.求逆",matType="MAT_JC_LT",Riddle="第64页例
 xitMatrixUnit(_mat="第65页习题3-4A组1.求A逆及AAAA的行列式",matType="MAT_JC_XT",Riddle="第65页习题3-4A组1.求A逆及AAAA的行列式",matList=[xitMatrix([[4,1,0],[3,2,0],[0,0,3]])])
 xitMatrixUnit(_mat="第65页习题3-4A组2.求AB",matType="MAT_JC_XT",Riddle="第65页习题3-4A组2.求AB",matList=[xitMatrix([[1,0,0,0],[0,1,0,0],[-1,2,1,0],[1,1,0,1]]),xitMatrix([[1,0,1,0],[-1,2,0,1],[1,0,4,1],[-1,-1,2,0]])])
 xitMatrixUnit(_mat="第65页习题3-4A组3.求逆",matType="MAT_JC_XT",Riddle="第65页习题3-4A组3.求逆",matList=[xitMatrix([[1,1,1,1],[0,1,1,1],[0,0,1,1],[0,0,0,1]])])
-xitMatrixUnit(_mat="第65页习题3-4A组4.求AB",matType="MAT_JC_XT",Riddle="第65页习题3-4A组4.求AB",matList=[xitMatrix([[1,0,-1,0],[0,1,0,-2],[0,0,5,3]]),xitMatrix([[-3,0,3],[1,4,0],[0,1,0],[0,0,1]])])
+xitMatrixUnit(_mat="第65页习题3-4A组4.求AB",matType="MAT_JC_XT",Riddle="第65页习题3-4A组4.求AB",matList=[xitMatrix([[1,0,-2,0],[0,1,0,-2],[0,0,5,3]]),xitMatrix([[-3,0,3],[1,4,0],[0,1,0],[0,0,1]])])
+xitMatrixUnit(_mat="第66页习题3-4B组2.求H逆",matType="MAT_JC_XT",Riddle="第66页习题3-4B组2.求H逆",matList=[xitMatrix([[3,1,0,0,0],[2,1,0,0,0],[1,0,1,0,1],[1,1,-1,1,1],[0,1,2,-1,1]])])
 '''

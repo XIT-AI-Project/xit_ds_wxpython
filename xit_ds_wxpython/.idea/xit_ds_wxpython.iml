@@ -8,6 +8,8 @@
     <orderEntry type="module" module-name="mnist_test" />
     <orderEntry type="module" module-name="example-code" />
     <orderEntry type="module" module-name="Lihang" />
+    <orderEntry type="module" module-name="Coursera-ML-AndrewNg-Notes" />
+    <orderEntry type="module" module-name="MyMStudy" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
